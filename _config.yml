@@ -1,0 +1,14 @@
+layout_spectrum: 0.7084609232842922
+typography_spectrum: 0.5267710536718369
+color:
+  brandStrength: 0.7483140304684639
+  lightness: 0.10705010150559247
+  saturation: 0.1443835711106658
+  rhythmicContrast: 0.1767408549785614
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: TRAD
