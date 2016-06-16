@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T13:44:09.483Z'
+datePublished: '2016-06-16T13:48:24.846Z'
 sourcePath: _posts/2016-04-15-norway-a-time-lapse-adventure.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/107469289'
@@ -11,7 +11,7 @@ author:
   - name: Rustad Media
     url: 'http://vimeo.com/rustadmedia'
     avatar: {}
-dateModified: '2016-06-16T13:44:08.839Z'
+dateModified: '2016-06-16T13:48:24.116Z'
 title: NORWAY - A Time-Lapse Adventure
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/107469289'
@@ -54,7 +54,7 @@ description: >-
   thousands of images taken along the way over the last 5 months.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
